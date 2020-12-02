@@ -1,3 +1,5 @@
+package com.xuzheng.crawiler;
+
 public class MultithreadDownloader {
     private String url;
     private String filetype;
